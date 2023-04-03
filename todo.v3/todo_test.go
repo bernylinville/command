@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/bernylinville/command/todo.v2"
+	"github.com/bernylinville/command/todo.v3"
 )
 
 // TestAdd tests the Add method of the List type
